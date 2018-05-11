@@ -1,0 +1,112 @@
+[
+                                [
+                                  {
+                                    "type":1,
+                                    "name": "Tomato",
+                                    "date": "11 May 2018",
+                                    "availableStatus": "0",
+                                    "price":10,
+                                    "perRate":1,
+                                    "rate":"Kg"
+                                  },
+                                  {
+                                    "name": "Onion",
+                                    "date": "11 May 2018",
+                                    "availableStatus": "0",
+                                    "price":15,
+                                    "perRate":1,
+                                    "rate":"Kg"
+                                  },
+                                  {
+                                    "type":1,
+                                    "name": "Potato",
+                                    "date": "11 May 2018",
+                                    "availableStatus": "0",
+                                    "price":20,
+                                    "perRate":1,
+                                    "rate":"Kg"
+                                  },
+                                  {
+                                    "type":1,
+                                    "name": "Cauliflower",
+                                    "date": "11 May 2018",
+                                    "availableStatus": "0",
+                                    "price":25,
+                                    "perRate":1,
+                                    "rate":"Kg"
+                                  }
+                              ],[
+                                  {
+                                    "type":2,
+                                    "name": "Mango",
+                                    "date": "11 May 2018",
+                                    "availableStatus": "0",
+                                    "price":80,
+                                    "perRate":1,
+                                    "rate":"Kg"
+                                  },
+                                  {
+                                    "type":2,
+                                    "name": "Apple",
+                                    "date": "11 May 2018",
+                                    "availableStatus": "0",
+                                    "price":90,
+                                    "perRate":1,
+                                    "rate":"Kg"
+                                  },
+                                  {
+                                    "type":2,
+                                    "name": "Banana",
+                                    "date": "11 May 2018",
+                                    "availableStatus": "0",
+                                    "price":40,
+                                    "perRate":1,
+                                    "rate":"Dozen"
+                                  },
+                                  {
+                                    "type":2,
+                                    "name": "Orange",
+                                    "date": "11 May 2018",
+                                    "availableStatus": "0",
+                                    "price":50,
+                                    "perRate":1,
+                                    "rate":"Kg"                                    
+                                  }
+                              ],[      
+                                  {
+                                    "type":3,
+                                    "name": "Almond – बादाम",
+                                    "date": "11 May 2018",
+                                    "availableStatus": "0",
+                                    "price":100,
+                                    "perRate":80,
+                                    "rate":" Grams"
+                                  },
+                                  {
+                                    "type":3,
+                                    "name": "Cashew nut- काजू",
+                                    "date": "11 May 2018",
+                                    "availableStatus": "0",
+                                    "price":100,
+                                    "perRate":80,
+                                    "rate":"Grams"
+                                  },
+                                  {
+                                    "name": "Dates- खजूर",
+                                    "date": "11 May 2018",
+                                    "availableStatus": "0",
+                                    "price":100,
+                                    "perRate":80,
+                                    "rate":"Grams"
+                                  },
+                                  {
+                                    "type":3,
+                                    "name": "Groundnuts, Peanuts- मूंगफली, मूंगफली",
+                                    "date": "11 May 2018",
+                                    "availableStatus": "0",
+                                    "price":100,
+                                    "perRate":80,
+                                    "rate":"Grams"
+                                  }
+                                ]
+                              ];
